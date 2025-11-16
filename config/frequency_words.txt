@@ -1,50 +1,39 @@
-
+苹果
+apple
+!水果
+亚马逊
+amazon
 特斯拉
-马斯克
-
 微软
 Microsoft
-
 英伟达
 NVIDIA
-黄仁勋
-
 AMD
-
 谷歌
 google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
+alphabet
 meta
 
 ai
 !gai
 人工智能
+claude
+Anthropic
+chatgpt
+openai
 
 自动驾驶
-
 机器人
 
 中国
-
 美国
 日本
 
 芯片
-光刻机
++半导体
+存储
+datacenter
+AI
 
 美国
 +核能
@@ -54,16 +43,19 @@ ai
 涨跌
 预测
 
-黄金
++黄金
 ETF
 
 FOMC
-美联储
++美联储
+会议
+降息
+加息
 
-美国
++美国
 货币
 就业
 通胀
-CCI
+CPI
 PCI
-统计
+
